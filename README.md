@@ -2,7 +2,7 @@
 QuizBot acts as an AI Assistant to the teacher. Just upload your teaching material and it creates customizable 'MCQ' question sets based on teacher-selected difficulty, number of questions, and options.
 
 ## Knowledge
-* **LLMChain** : Chain to run queries against an LLM.​
+* **Chains** : Combination of propmt templates to run queries against an LLM where output of one component acts as an input to another.
 * **Prompt templates** : help to translate user input and parameters into instructions for a language model. This can be used to guide a model's response, helping it understand the context and generate relevant and coherent language-based output.​
 * Prompt Templates take as input a dictionary, where each key represents a variable in the prompt template to fill in.​
 
