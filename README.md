@@ -39,8 +39,7 @@ QuizBot acts as an AI Assistant to the teacher. Just upload your teaching materi
  
 ## Video Demo
 
-[screen-capture.webm](https://github.com/user-attachments/assets/956ccb62-4ec6-44f3-8f20-df752cfa8ef9)
-
+[QuizBot-Demo.webm](https://github.com/user-attachments/assets/68b99e95-e343-429f-a190-7994349c629e)
 
 ## Requirements
 
