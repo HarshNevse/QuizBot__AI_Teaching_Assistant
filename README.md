@@ -52,7 +52,7 @@ You must also have `Ollama` installed and running a compatible local model (such
 
 ## Technologies Used
 * `LangChain`
-* `Ollama` LLM (e.g., llama3)
+* `Ollama` LLM (llama3)
 * `Flask`
 * `marked.js` for Markdown rendering in the frontend
 
