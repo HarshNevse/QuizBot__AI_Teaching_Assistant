@@ -132,4 +132,5 @@ def generate_mcqs():
     return jsonify({'mcqs': result})
 
 if __name__ == '__main__':
+    
     app.run(debug=True, use_reloader = False)
